@@ -5,7 +5,7 @@ const about = `
 
     <h3>Who I am</h3>
     <p>
-        I'm a programmer. I want to keep learning new things and understand how it really works under the hood of a website.
+        I'm a programmer. I keep on learning new things and understand how it really works under the hood of a website.
     </p>
 
     <h3>What I know</h3>
@@ -13,15 +13,15 @@ const about = `
         I am learning Web Programming, especially Front End Web Development at Teamtreehouse and figuring out how to build awesome websites. 
     </p>
     <p>
-        My background was in JavaScript programming for almost two years experience learning web development and I'm passionate about coding. Since I was a child, I have enjoyed playing games that had something to do with technology but never thought about the technology behind games development. I finally realized the importance of understanding the code that were written by professional programmers.
+        My background was in JavaScript programming for almost two years experience learning web development and I'm passionate about coding. Since I was a child, I have enjoyed playing games that had something to do with technology but never thought about the technology behind games development. I finally realized the importance of understanding the code that was written by professional programmers.
     </p>
     <p>
-        For web development I work with HTML5, CSS3, and JavaScript to build modern, responsive and performance optimized web sites and applications. I have started learning React library and I liked it a lot, the ability to make SPA with react router, the ability to mix html with javascript and do some powerful things is really great, and it's fast.
+        For web development, I work with HTML5, CSS3, and JavaScript to build modern, responsive and performance optimized websites and applications. I have started learning React library and I liked it a lot, the ability to make SPA with react router, the ability to mix HTML with JavaScript and do some powerful things is really great, and it's fast.
     </p>
 
     <h3>What I'm looking for</h3>
     <p>
-        I am looking for a company who wants a long term collaboration. Preferably it's a remote friendly job.
+        I am looking for a company who wants a long-term collaboration. Preferably it's a remote friendly job.
         I'm open for an employment or a freelance solution.
     </p>
 
